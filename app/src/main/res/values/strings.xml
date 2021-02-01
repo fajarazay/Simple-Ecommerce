@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Simple Ecommerce</string>
+    <string name="title_home">Home</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="facebook_app_id">231062531836347</string>
+    <string name="fb_login_protocol_scheme">fb231062531836347</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_login">Login</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_remember_me">Remember me</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="label_login_with_google">Sign in with Google</string>
+    <string name="label_login_with_fb">Sign in with Facebook</string>
+    <string name="label_cari_produk">Cari produk</string>
+    <string name="title_menu_share">Share</string>
+    <string name="label_buy">Buy</string>
+    <string name="content_desc_button_favorite">Button Favorite</string>
+    <string name="content_desc_image_product">Image Product</string>
+    <string name="content_desc_image_category">Image Category</string>
+    <string name="content_desc_button_love">button love</string>
+
+</resources>

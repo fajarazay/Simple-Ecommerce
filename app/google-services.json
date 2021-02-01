@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699218061930",
+    "firebase_url": "https://ngoprek-6d468.firebaseio.com",
+    "project_id": "ngoprek-6d468",
+    "storage_bucket": "ngoprek-6d468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699218061930:android:b144b1b4662eaced8b3813",
+        "android_client_info": {
+          "package_name": "com.github.fajarazay.simpleecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699218061930-ce64fhu5sl8tlhihsmbi84gcrt1qma0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.fajarazay.simpleecommerce",
+            "certificate_hash": "e3fce7701fb215cea37c509abff80de5f7ebe002"
+          }
+        },
+        {
+          "client_id": "699218061930-qejobmka44tf9fimtvrs1tinoauonkau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHM27cAonHrIKL2pZ3zn722vSwf9ix_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699218061930-qejobmka44tf9fimtvrs1tinoauonkau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
